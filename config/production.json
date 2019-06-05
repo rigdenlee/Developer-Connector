@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://rocklee21:rocklee21@developerconnector-aam1c.mongodb.net/test?retryWrites=true",
-    "jwtSecret": "mysecrettoken",
-    "githubClientId": "6ebc845a3ebec7a95c8d",
-    "githubSecret": "f5edb9d1f3117d05c26530a1d12c35c205321ff6"
-}
